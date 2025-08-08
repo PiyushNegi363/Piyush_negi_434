@@ -23,7 +23,3 @@ An interactive machine learning web app built with *Streamlit* that predicts sal
 - *Visualization*: Plotly, Seaborn, Matplotlib
 - *Model Explainability*: SHAP (planned)
 - *Packaging & Deployment*: Streamlit Cloud / Local Server
-
----
-
-## 📁 File Structure
