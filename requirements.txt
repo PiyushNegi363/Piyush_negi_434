@@ -1,0 +1,6 @@
+# list of libraties to install #
+pandas
+numpy
+scikit-learn
+matplotlib
+streamlit
